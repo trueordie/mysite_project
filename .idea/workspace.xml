@@ -4,17 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f4be5e-83de-410d-9830-e5f7ab9f8e7b" name="Changes" comment="Admin panel configuration">
+    <list default="true" id="c1f4be5e-83de-410d-9830-e5f7ab9f8e7b" name="Changes" comment="Creating views">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cca92f4b-945b-4935-b982-d078f717d46c" />
+        <option name="url" value="https://github.com/trueordie/mysite_project.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -30,10 +52,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/igor/PycharmProjects/python_tests",
+    "last_opened_file_path": "/home/igor/Django education/django4_book/mysite_project",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -69,7 +92,55 @@
       <option name="project" value="LOCAL" />
       <updated>1709127848734</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating a model manager">
+      <option name="closed" value="true" />
+      <created>1709137348390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709137348390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creating a model manager">
+      <option name="closed" value="true" />
+      <created>1709139228846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139228846</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creating a model manager">
+      <option name="closed" value="true" />
+      <created>1709139302978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139302978</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creating a model manager">
+      <option name="closed" value="true" />
+      <created>1709139373870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139373870</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creating views">
+      <option name="closed" value="true" />
+      <created>1709139457642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139457642</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creating views">
+      <option name="closed" value="true" />
+      <created>1709139475761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709139475761</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +156,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Admin panel configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin panel configuration" />
+    <MESSAGE value="Creating a model manager" />
+    <MESSAGE value="Creating views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating views" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
