@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f4be5e-83de-410d-9830-e5f7ab9f8e7b" name="Changes" comment="Creating a form and view for sending emails + configuring the gmail mail service">
+    <list default="true" id="c1f4be5e-83de-410d-9830-e5f7ab9f8e7b" name="Changes" comment="Creating template and url, updating view for form sending emails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709721751032</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Creating template and url, updating view for form sending emails">
+      <option name="closed" value="true" />
+      <created>1709744277613</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709744277613</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +229,8 @@
     <MESSAGE value="Adding pagination and error handling" />
     <MESSAGE value="Replacing the post_list view with a class-based PostListView" />
     <MESSAGE value="Creating a form and view for sending emails + configuring the gmail mail service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a form and view for sending emails + configuring the gmail mail service" />
+    <MESSAGE value="Creating template and url, updating view for form sending emails" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating template and url, updating view for form sending emails" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
